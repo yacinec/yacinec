@@ -1,8 +1,8 @@
 # Hi i'm [Yacine Chalabi](https://www.yacinechalabi.fr) 👋
 
-#### I'm a Front-end Web Developer based in Paris 💻
+#### I'm a Fullstack Developer based in Paris 💻
 
-#### I love spending time building websites ⚙️,  especially the visual part ✨
+#### I love spending time building apps ⚙️,  especially the visual part ✨
 
 ![logo](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![logo](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
