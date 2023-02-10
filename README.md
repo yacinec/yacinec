@@ -5,10 +5,15 @@
 #### I love spending time building apps ⚙️,  especially the visual part ✨
 
 ![logo](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![logo](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
+![logo](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![logo](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![logo](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![logo](https://img.shields.io/badge/Nest.js-E1204E?style=for-the-badge&logo=nestjs&logoColor=white)
+![logo](https://img.shields.io/badge/SpringBoot-6EB443?style=for-the-badge&logo=spring&logoColor=white)
+
+
 
 I also write guides [here](https://github.com/yacinec/guide) 👈
 <!--
