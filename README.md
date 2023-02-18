@@ -1,4 +1,4 @@
-# Hi i'm [Yacine Chalabi](https://www.yacinechalabi.fr) 👋
+# Hi i'm [Yacine Chalabi](https://www.yacinechalabi.com) 👋
 
 #### I'm a Fullstack Developer based in Paris 💻
 
