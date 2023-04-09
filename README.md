@@ -19,7 +19,7 @@
 | ![logo](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  | ![logo](https://img.shields.io/badge/SpringBoot-6EB443?style=for-the-badge&logo=spring&logoColor=white)  |
 | ![logo](https://img.shields.io/badge/Sass-CD669A?style=for-the-badge&logo=sass&logoColor=white)  | ![logo](https://img.shields.io/badge/Nest.js-E1204E?style=for-the-badge&logo=nestjs&logoColor=white)  |
 
-I also write articles [here]([https://github.com/yacinec/guide](https://dev.to/yacinec)) 👈
+I also write articles [here](https://dev.to/yacinec) 👈
 <!--
 **MiciWeb/MiciWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
