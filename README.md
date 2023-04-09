@@ -1,4 +1,4 @@
-# Hi i'm [Yacine Chalabi](https://www.yacinechalabi.com) 👋
+# Hi i'm yacinec 👋
 
 #### I'm a Fullstack Developer based in Paris 💻
 
@@ -15,8 +15,8 @@
 
 
 
-I also write guides [here](https://github.com/yacinec/guide) 👈
-<!--
+<!--I also write guides [here](https://github.com/yacinec/guide) 👈
+
 **MiciWeb/MiciWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
