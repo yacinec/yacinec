@@ -1,6 +1,6 @@
 # Hi i'm yacinec 👋
 
-#### I'm a Fullstack Developer based in Paris 💻
+#### I'm a Fullstack Developer based in France 💻
 
 #### I love spending time building apps ⚙️,  especially the visual part ✨
 <!--
