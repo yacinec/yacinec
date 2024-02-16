@@ -1,4 +1,4 @@
-# Hi i'm yacinec 👋
+# Hi i'm Yacine 👋
 
 #### I'm a Frontend Developer based in France 💻
 
