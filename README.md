@@ -1,6 +1,6 @@
 # Hi I'm Yacine 👋
 
-#### I'm a Frontend Developer based in France 💻
+#### I'm a Full Stack Developer based in France 💻
 
 #### I love spending time building apps ⚙️,  especially the visual part ✨
 <!--
