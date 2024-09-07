@@ -12,17 +12,20 @@ My goal is to support you in the success of your projects through my know-how an
 Looking forward to connecting with you 👋
 
 **⭐️ Main stack**
-• React / Next.js
-• Typescript
+
+- React / Next.js
+- Typescript
 
 **💻 Other technologies**
-• Kotlin / Java / Spring boot
-• API REST / GraphQL
-• Node.js / Nest.js
-• Mongo DB
-• Postgres / MySQL
-• GIT
+
+- Kotlin / Java / Spring boot
+- API REST / GraphQL
+- Node.js / Nest.js
+- Mongo DB
+- Postgres / MySQL
+- GIT
 
 **🌐 Social Network**
-🔗 [https://github.com/yacinec](https://github.com/yacinec)
+
+🔗 [https://github.com/yacinec](https://github.com/yacinec)<br>
 🔗 [https://www.thebrosofcode.com/](https://www.thebrosofcode.com/)
