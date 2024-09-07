@@ -1,4 +1,4 @@
-### ✅ Available
+### ✅ Available for mission
 
 ## 🎯 Freelance Consultant | Rate: €450/day
 
