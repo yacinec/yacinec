@@ -4,8 +4,8 @@
 
 I am a freelance Front End developer with strong expertise and several years of experience in the field. I am currently available for assignments:
 
-⦿ On-site in Bordeaux
-⦿ Remotely for projects across France or internationally
+- On-site in Bordeaux
+- Remotely for projects across France or internationally
 
 My goal is to support you in the success of your projects through my know-how and my ability to adapt to your specific needs. Feel free to reach out to discuss your needs and how I can help you achieve your goals.
 
