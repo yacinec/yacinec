@@ -1,6 +1,6 @@
 ### ✅ Available for mission
 
-## 🎯 Freelance Consultant | Rate: €450/day
+## 🎯 Freelance Front End Developer | Rate: €450/day
 
 I am a freelance Front End developer with strong expertise and several years of experience in the field. I am currently available for assignments:
 
