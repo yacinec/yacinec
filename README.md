@@ -1,4 +1,4 @@
-### ✅ Available for mission
+### ✅ Open to work
 
 ## 🎯 Freelance Front End Developer | Rate: €450/day
 
