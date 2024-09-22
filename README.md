@@ -11,6 +11,7 @@ Looking forward to connecting with you 👋
 **⭐️ Main stack**
 
 - React / Next.js
+- Vue / Nuxt
 - Typescript
 
 **💻 Other technologies**
