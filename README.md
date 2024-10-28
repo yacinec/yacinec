@@ -1,6 +1,6 @@
 ### ✅ Open to work
 
-## 🎯 Freelance Full Stack Developer | Rate: €450/day
+## 🎯 Freelance Full Stack Developer | Rate: €375/day
 
 I am a freelance Full Stack developer with strong expertise and several years of experience in the field. I am currently available for projects across France or internationally
 
