@@ -1,10 +1,10 @@
 ### ✅ Open to work
 
-## 🎯 Freelance Full Stack Developer | Rate: €375/day
+## 🎯 Freelance Front-End Developer | Rate: €375/day
 
-I am a freelance Full Stack developer with strong expertise and several years of experience in the field. I am currently available for projects across France or internationally
-
-My goal is to support you in the success of your projects through my know-how and my ability to adapt to your specific needs. Feel free to reach out to discuss your needs and how I can help you achieve your goals.
+Freelance Full Stack developer with several years of experience and strong expertise.
+Having worked on over 18 projects, I specialize in frontend development, particularly with the React / Next stack, while also having solid full stack capabilities.
+Currently available for projects in France or internationally.
 
 Looking forward to connecting with you 👋
 
@@ -12,6 +12,7 @@ Looking forward to connecting with you 👋
 
 - React / Next.js
 - Vue / Nuxt
+- Angular
 - Typescript
 - Kotlin / Java / Spring boot
 - REST / GraphQL
@@ -22,5 +23,5 @@ Looking forward to connecting with you 👋
 
 **🌐 Social Network**
 
-🔗 [https://github.com/yacinec](https://github.com/yacinec)<br>
+🔗 [https://yacinechalabi.com](https://yacinechalabi.com)<br>
 🔗 [https://www.thebrosofcode.com/](https://www.thebrosofcode.com/)
