@@ -8,7 +8,7 @@ Currently available for projects in France or internationally.
 
 Looking forward to connecting with you 👋
 
-**⭐️ Main stack**
+**⭐️ Stack**
 
 - React / Next.js
 - Vue / Nuxt
