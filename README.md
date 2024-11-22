@@ -1,6 +1,6 @@
 ### ✅ Open to work
 
-## 🎯 Freelance Front-End Developer | Rate: €375/day
+## 🎯 Freelance Full-Stack Developer | Rate: €375/day
 
 Freelance Full Stack developer with several years of experience and strong expertise.
 Having worked on over 18 projects, I specialize in frontend development, particularly with the React / Next stack, while also having solid full stack capabilities.
