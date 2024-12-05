@@ -2,24 +2,32 @@
 
 ## 🎯 Freelance Full-Stack Developer | Rate: €375/day
 
-Freelance Full Stack developer with several years of experience and strong expertise.
-Having worked on over 18 projects, I specialize in frontend development, particularly with the React / Next stack, while also having solid full stack capabilities.
-Currently available for projects in France or internationally.
+Full-stack developer specializing in the creation of modern, high-performance SaaS applications, with solid expertise in the React / Next.js stack.
+I can help you realize your projects, from the development of front-end functionalities to the integration of back-end APIs (Kotlin / Spring Boot).
 
-Looking forward to connecting with you 👋
+**🎯 My strengths**
+• Development of responsive, optimized user interfaces.
+• Creation and maintenance of robust APIs.
+• Automation and systems integration with Retool.
 
-**⭐️ Stack**
+**📅 Get in touch**
+Let's discuss your project! Book a slot here: https://calendly.com/yacinec/30min
 
-- React / Next.js
-- Vue / Nuxt
-- Angular
-- Typescript
-- Kotlin / Java / Spring boot
-- REST / GraphQL
-- Node.js / Nest.js
-- Mongo DB
-- Postgres / MySQL
-- GIT
+**💻 Main Stack**
+• React / Next.js
+• Kotlin / Java / Spring boot
+• Javascript / Typescript
+• API REST / GraphQL
+• Postgres / MySQL
+• MongoDB
+
+**⚙️ Others**
+• Vue / Nuxt
+• Angular
+• Node.js / Nest.js
+• Docker
+• AWS
+• Retool
 
 **🌐 Social Network**
 
