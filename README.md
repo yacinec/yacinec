@@ -5,7 +5,7 @@
 Full-stack developer specializing in the creation of modern, high-performance SaaS applications, with solid expertise in the React / Next.js stack.
 I can help you realize your projects, from the development of front-end functionalities to the integration of back-end APIs (Kotlin / Spring Boot).
 
-**🎯 My strengths**
+**🚀 My strengths**
 
 • Development of responsive, optimized user interfaces.
 • Creation and maintenance of robust APIs.
