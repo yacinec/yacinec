@@ -6,14 +6,17 @@ Full-stack developer specializing in the creation of modern, high-performance Sa
 I can help you realize your projects, from the development of front-end functionalities to the integration of back-end APIs (Kotlin / Spring Boot).
 
 **🎯 My strengths**
+
 • Development of responsive, optimized user interfaces.
 • Creation and maintenance of robust APIs.
 • Automation and systems integration with Retool.
 
 **📅 Get in touch**
+
 Let's discuss your project! Book a slot here: https://calendly.com/yacinec/30min
 
 **💻 Main Stack**
+
 • React / Next.js
 • Kotlin / Java / Spring boot
 • Javascript / Typescript
@@ -22,6 +25,7 @@ Let's discuss your project! Book a slot here: https://calendly.com/yacinec/30min
 • MongoDB
 
 **⚙️ Others**
+
 • Vue / Nuxt
 • Angular
 • Node.js / Nest.js
