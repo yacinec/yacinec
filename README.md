@@ -1,9 +1,9 @@
 ### ✅ Open to work
 
-## 🎯 Freelance Full-Stack Developer | Rate: €375/day
+## 🎯 Freelance Software Engineer | Rate: €375/day
 
-Full-stack developer specializing in the creation of modern, high-performance SaaS applications, with solid expertise in the React / Next.js stack.
-I can help you realize your projects, from the development of front-end functionalities to the integration of back-end APIs (Kotlin / Spring Boot).
+Software Engineer specializing in the creation of modern, high-performance SaaS applications, with solid expertise in the React / Next.js stack.
+I can help you realize your projects, from the development of front-end functionalities to the integration of back-end APIs.
 
 **🚀 My strengths**
 
@@ -18,6 +18,7 @@ Let's discuss your project! Book a slot here: https://calendly.com/yacinec/30min
 **💻 Main Stack**
 
 • React / Next.js
+• Node.js
 • Kotlin / Java / Spring boot
 • Javascript / Typescript
 • API REST / GraphQL
