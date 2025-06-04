@@ -1,40 +1,14 @@
-### ✅ Open to work
+👋 Hi, I'm Yacine Chalabi, a software engineer focused on building solid systems that serve real needs.
 
-## 🎯 Freelance Software Engineer | Rate: €375/day
+## About Me
+I'm a developer who cares about code quality, system design, and building software that makes sense for users and for developers. I enjoy bridging the gap between technical architecture and product value.
 
-Software Engineer specializing in the creation of modern, high-performance SaaS applications, with solid expertise in the React / Next.js stack.
-I can help you realize your projects, from the development of front-end functionalities to the integration of back-end APIs.
+## Technical Skills ⚒
 
-**🚀 My strengths**
+• Languages: Javascript, Typescript, Java, Kotlin
+• Frameworks & Libraries: React, Next.js, Node.js, Spring Boot
+• Tools & Platforms: Github, Docker, AWS, Vercel, Retool
 
-• Development of responsive, optimized user interfaces.
-• Creation and maintenance of robust APIs.
-• Automation and systems integration with Retool.
-
-**📅 Get in touch**
-
-Let's discuss your project! Book a slot here: https://calendly.com/yacinec/30min
-
-**💻 Main Stack**
-
-• React / Next.js
-• Node.js
-• Kotlin / Java / Spring boot
-• Javascript / Typescript
-• API REST / GraphQL
-• Postgres / MySQL
-• MongoDB
-
-**⚙️ Others**
-
-• Vue / Nuxt
-• Angular
-• Node.js / Nest.js
-• Docker
-• AWS
-• Retool
-
-**🌐 Social Network**
+**Social Network**
 
 🔗 [https://yacinechalabi.com](https://yacinechalabi.com)<br>
-🔗 [https://www.thebrosofcode.com/](https://www.thebrosofcode.com/)
