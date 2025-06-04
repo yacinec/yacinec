@@ -5,11 +5,9 @@ I'm a developer who cares about code quality, system design, and building softwa
 
 ## Technical Skills ⚒
 
-• Languages: Javascript, Typescript, Java, Kotlin
-
-• Frameworks & Libraries: React, Next.js, Node.js, Spring Boot
-
-• Tools & Platforms: Github, Docker, AWS, Vercel, Retool
+• Languages: Javascript, Typescript, Java, Kotlin<br>
+• Frameworks & Libraries: React, Next.js, Node.js, Spring Boot<br>
+• Tools & Platforms: Github, Docker, AWS, Vercel, Retool<br>
 
 **Connect with Me 📬**
 
