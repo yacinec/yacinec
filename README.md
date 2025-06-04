@@ -6,9 +6,12 @@ I'm a developer who cares about code quality, system design, and building softwa
 ## Technical Skills ⚒
 
 • Languages: Javascript, Typescript, Java, Kotlin
+
 • Frameworks & Libraries: React, Next.js, Node.js, Spring Boot
+
 • Tools & Platforms: Github, Docker, AWS, Vercel, Retool
 
-**Social Network**
+**Connect with Me 📬**
 
-🔗 [https://yacinechalabi.com](https://yacinechalabi.com)<br>
+- 🔗 [Linkedin](https://www.linkedin.com/in/yacine-chalabi/)<br>
+
