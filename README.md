@@ -7,7 +7,7 @@ I'm a engineer who cares about code quality, system design, and building softwar
 
 • Languages: Javascript, Typescript, Java, Kotlin, Python<br>
 • Frameworks & Libraries: React, Next.js, Node.js, Spring Boot<br>
-• Tools & Platforms: Github, Docker, AWS, Retool, Claude<br>
+• Tools & Platforms: Github, Docker, AWS, Retool, Claude Code<br>
 
 **Connect with Me 📬**
 
