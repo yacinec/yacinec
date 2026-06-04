@@ -1,4 +1,4 @@
-👋 Hi, I'm Yacine Chalabi, a software engineer focused on building solid systems that serve real needs.
+👋 Hi, I'm Yacine Chalabi, a software engineer focused on building reliable and maintainable systems that serve real needs.
 
 ## About Me
 I care about code quality, system design, and building software that makes sense for users and for developers. I enjoy bridging the gap between technical architecture and product value.
